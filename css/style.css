@@ -3,7 +3,7 @@
 body {
     font-family: "JetBrains Mono", monospace;
     font-size: 1vw;
-    background: rgb(32, 32, 32);
+    background: rgba(255,0,0,0.0);
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
